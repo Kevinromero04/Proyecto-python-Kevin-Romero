@@ -10,7 +10,9 @@
         "Salon": " Apolo"
     },
     "M2": {
-        "campers": [],
+        "campers": [
+            102943
+        ],
         "Horario": "10:00 am a 2:00 pm",
         "Trainer": "Jose Trazona",
         "Ruta": "NodeJs",

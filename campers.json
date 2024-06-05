@@ -141,6 +141,30 @@
             "Notas 30%": [],
             "Ruta": "2:00 pm a 6:00 pm",
             "Horario": ""
+        },
+        "102943": {
+            "Nombre": "Kevin Stev",
+            "Apellidos": "Romero Rincon",
+            "Direccion": "calle 45",
+            "Acudiente": "no",
+            "Telefono": 31245,
+            "Telefono Fijo": "0",
+            "Estado": "Aprobado",
+            "Riesgo": "bajo",
+            "Nota Final": [
+                87
+            ],
+            "Notas 10%": [
+                9.600000000000001
+            ],
+            "Notas 60%": [
+                58.8
+            ],
+            "Notas 30%": [
+                26.099999999999998
+            ],
+            "Ruta": "10:00 am a 2:00 pm",
+            "Horario": ""
         }
     }
 }

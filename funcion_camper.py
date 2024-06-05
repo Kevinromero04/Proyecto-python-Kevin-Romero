@@ -10,7 +10,7 @@ def camper():
             elif opc == 2:
                 mostrar_usuarios.mos_notas_campers()
             elif opc == 3:
-                mostrar_usuarios.mos_campers()
+                mostrar_usuarios.mos_horario()
             elif opc == 4:
                 break
             else:

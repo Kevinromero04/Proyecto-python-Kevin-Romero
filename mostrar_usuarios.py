@@ -33,7 +33,7 @@ def mos_notas_campers():
     else:
         print("No existe ningun camper con ese documento")
         
-def mos_campers():
+def mos_horario():
     nuevo=gg.cargar_ususario_aprobados()
     doc = int(input("Ingrese el documento: "))
     if str(doc) in nuevo["campers"]:
