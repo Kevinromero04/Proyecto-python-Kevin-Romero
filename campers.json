@@ -1,0 +1,146 @@
+{
+    "campers": {
+        "123": {
+            "Nombre": "milu",
+            "Apellidos": "carrillo",
+            "Direccion": "fd",
+            "Acudiente": "fd",
+            "Telefono": 324,
+            "Telefono Fijo": "0",
+            "Estado": "Aprobado",
+            "Riesgo": "No",
+            "Horario": "",
+            "Nota Final": [
+                262.79999999999995
+            ],
+            "Notas 10%": [
+                26.099999999999998,
+                7.800000000000001,
+                8.700000000000001
+            ],
+            "Notas 60%": [
+                58.8,
+                58.8,
+                58.8
+            ],
+            "Notas 30%": [
+                23.4,
+                3.5999999999999996,
+                16.8
+            ],
+            "Ruta": "NetCore"
+        },
+        "4": {
+            "Nombre": "juan",
+            "Apellidos": "perez",
+            "Direccion": "d",
+            "Acudiente": "g",
+            "Telefono": 4,
+            "Telefono Fijo": "0",
+            "Estado": "Aprobado",
+            "Riesgo": "No",
+            "Horario": "",
+            "Nota Final": [
+                104.69999999999999
+            ],
+            "Notas 10%": [
+                26.099999999999998
+            ],
+            "Notas 60%": [
+                52.199999999999996
+            ],
+            "Notas 30%": [
+                26.4
+            ],
+            "Ruta": "Java"
+        },
+        "5": {
+            "Nombre": "laura",
+            "Apellidos": "valla",
+            "Direccion": "sd",
+            "Acudiente": "fd",
+            "Telefono": 5,
+            "Telefono Fijo": "0",
+            "Estado": "Aprobado",
+            "Riesgo": "No",
+            "Horario": "",
+            "Nota Final": [],
+            "Notas 10%": [],
+            "Notas 60%": [],
+            "Notas 30%": [],
+            "Ruta": "NetCore"
+        },
+        "1234": {
+            "Nombre": "andres",
+            "Apellidos": "angel",
+            "Direccion": "calee 105",
+            "Acudiente": "carlos",
+            "Telefono": 4123172842,
+            "Telefono Fijo": "0",
+            "Estado": "Aprobado",
+            "Riesgo": "bajo",
+            "Horario": "",
+            "Nota Final": [
+                90.49999999999999
+            ],
+            "Notas 10%": [
+                5.6000000000000005
+            ],
+            "Notas 60%": [
+                58.8
+            ],
+            "Notas 30%": [
+                26.099999999999998
+            ],
+            "Ruta": ""
+        },
+        "1212": {
+            "Nombre": "fabula",
+            "Apellidos": "comedia",
+            "Direccion": "que le importa#54",
+            "Acudiente": "no",
+            "Telefono": 3105884558,
+            "Telefono Fijo": "0",
+            "Estado": "Aprobado",
+            "Riesgo": "No",
+            "Horario": "",
+            "Nota Final": [],
+            "Notas 10%": [],
+            "Notas 60%": [],
+            "Notas 30%": [],
+            "Ruta": ""
+        },
+        "1095304637": {
+            "Nombre": "Stefany",
+            "Apellidos": "Sanchez Santos",
+            "Direccion": "Campo hermoso",
+            "Acudiente": "Mama de stefany",
+            "Telefono": 3153065043,
+            "Telefono Fijo": "0",
+            "Estado": "Aprobado",
+            "Riesgo": "No",
+            "Horario": "",
+            "Nota Final": [],
+            "Notas 10%": [],
+            "Notas 60%": [],
+            "Notas 30%": [],
+            "Ruta": ""
+        },
+        "987": {
+            "Nombre": "juanita",
+            "Apellidos": "valla",
+            "Direccion": "df",
+            "Acudiente": "no",
+            "Telefono": 1234567,
+            "Telefono Fijo": "0",
+            "Estado": "Aprobado",
+            "Riesgo": "No",
+            "Nota Final": [],
+            "Notas 10%": [],
+            "Notas 60%": [],
+            "Notas 30%": [],
+            "Ruta": "2:00 pm a 6:00 pm",
+            "Horario": ""
+        }
+    }
+}

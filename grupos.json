@@ -1,0 +1,36 @@
+{
+    "M1": {
+        "campers": [
+            123,
+            5
+        ],
+        "Horario": "6:00 pm a 10:00 pm",
+        "Trainer": "Manuel Perez",
+        "Ruta": "NetCore",
+        "Salon": " Apolo"
+    },
+    "M2": {
+        "campers": [],
+        "Horario": "10:00 am a 2:00 pm",
+        "Trainer": "Jose Trazona",
+        "Ruta": "NodeJs",
+        "Salon": " Artemis"
+    },
+    "M3": {
+        "campers": [
+            4,
+            987
+        ],
+        "Horario": "6:00 am 10:00 am",
+        "Trainer": "Juan Marin1o",
+        "Ruta": "Java",
+        "Salon": " Sputnik"
+    },
+    "M4": {
+        "campers": [],
+        "Horario": "2:00 pm a 6:00 pm",
+        "Trainer": "Juan Marino",
+        "Ruta": "Java",
+        "Salon": " Sputnik"
+    }
+}
