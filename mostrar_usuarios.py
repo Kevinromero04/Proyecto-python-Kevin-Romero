@@ -38,7 +38,17 @@ def mos_horario():
     doc = int(input("Ingrese el documento: "))
     if str(doc) in nuevo["campers"]:
         print("Te toco en el horario:  ", nuevo["campers"][str(doc)]["Horario"])
+        print("Te toco en el ruta:  ", nuevo["campers"][str(doc)]["Ruta"])
+        print("Te toco en el grupo:  ", nuevo["campers"][str(doc)]["Grupo"])
         print("**************************************************")
     else:
         print("No existe ningun camper con ese documento")
+
+def mos_camp ():
+    file = open("campers.json")
+    regis = json.load(file)
+    for documento , datos in regis["campers"].items():
+        print("El camper ", datos["Nombre"],datos["Apellidos"],", Con el documento",documento)
+        print("Esta en la ruta: ", datos["Ruta"],"en el grupo: ",datos["Grupo"],"en el horario:",datos["Horario"])
+        print("**************************************************")
 

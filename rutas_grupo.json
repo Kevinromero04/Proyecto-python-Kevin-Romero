@@ -1,0 +1,57 @@
+{
+    "Rutas": {
+        "Java": {
+            "U1": {
+                "campers": [],
+                "Horario": "6:00 pm a 10:00 pm",
+                "Trainer": "",
+                "Ruta": "Java",
+                "Salon": "Sputnik"
+            },
+            "U2": {
+                "campers": [
+                    1097096884
+                ],
+                "Horario": "10:00 am a 2:00 pm",
+                "Trainer": "",
+                "Ruta": "Java",
+                "Salon": "Sputnik"
+            }
+        },
+        "NetCore": {
+            "M1": {
+                "campers": [
+                    123,
+                    4
+                ],
+                "Horario": "6:00 pm a 10:00 pm",
+                "Trainer": "",
+                "Ruta": "NetCore",
+                "Salon": "Apolo"
+            },
+            "M2": {
+                "campers": [],
+                "Horario": "10:00 am a 2:00 pm",
+                "Trainer": "",
+                "Ruta": "NetCore",
+                "Salon": "Apolo"
+            }
+        },
+        "NodeJs": {
+            "K1": {
+                "campers": [],
+                "Horario": "6:00 pm a 10:00 pm",
+                "Trainer": "",
+                "Ruta": "NodeJs",
+                "Salon": "Sputnik"
+            },
+            "K2": {
+                "campers": [],
+                "Horario": "10:00 am a 2:00 pm",
+                "Trainer": "",
+                "Ruta": "NodeJs",
+                "Salon": "Sputnik"
+            }
+        }
+    }
+}

@@ -7,7 +7,7 @@ def menu_1():
 
 def menu_coor():
     print("**************************************************")
-    menu2 = ["1. Registrar la nota del participante registrado","2. Mostrar campers inscritos","3. Mostrar trainers" ,"4. Asignar ruta del camper", "5. Modificar nota final del camper","6. Crear rutas","7. Salir"] 
+    menu2 = ["1. Registrar la nota del participante registrado","2. Mostrar campers inscritos","3. Mostrar trainers" ,"4. Asignar ruta del camper y grupo", "5. Modificar nota final del camper","6. Crear rutas","7. Para mostrar campers","8. Salir"] 
     for m in menu2:
         print(m)
     print("**************************************************")
@@ -34,8 +34,25 @@ def menu_trainer():
     print("**************************************************")
     
 def menu_rutas():
-    menu7 = ["1. NetCore","2. NodeJs", "3. Java","4. Java (hay un grupo de 6 a 10 am)"] 
+    menu7 = ["1. NetCore","2. NodeJs", "3. Java"] 
     for m in menu7:
         print(m)
     print("**************************************************")
 
+def menu_NetCore():
+    menu8 = ["1. Grupo M1","2. Grupo M2"] 
+    for m in menu8:
+        print(m)
+    print("**************************************************")
+
+def menu_NodeJs():
+    menu9 = ["1. Grupo K1","2. Grupo K2"] 
+    for m in menu9:
+        print(m)
+    print("**************************************************")
+
+def menu_Java():
+    menu9 = ["1. Grupo U1","2. Grupo U2"] 
+    for m in menu9:
+        print(m)
+    print("**************************************************")

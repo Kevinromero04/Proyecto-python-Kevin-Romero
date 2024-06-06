@@ -3,9 +3,9 @@ from menus import menu_coor
 import aprobar_denegar as pd
 import mostrar_usuarios as mostra
 import modificar_nota_cordi as notas
-import asignar_ruta
 import crea_ruta
 import carga_Coor as mm
+import asignar_ruta_grupo
 def wel_coor ():
     ss = mm.cargar_coor()
     clave1 = input("Digite la clave: ").lower()
@@ -27,7 +27,7 @@ def wel_coor ():
                 mostra.mos_trains()
                 
             elif opc_cor ==4:
-                asignar_ruta.rutas()
+                asignar_ruta_grupo.rhlm()
                 
             elif opc_cor ==5:
                 notas.modi_cordi()
@@ -36,6 +36,8 @@ def wel_coor ():
                 crea_ruta.nuv_rut()
                 
             elif opc_cor ==7:
+                mostra.mos_camp()
+            elif opc_cor ==8:
                 print("Saliendo...")
                 break
             else:

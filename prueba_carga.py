@@ -1,22 +1,19 @@
 import json
-ruta = "trainers.json"
+ruta = "rutas_grupo.json"
 
-def guardar_trainer(datos):
+def guarda_rutas(datos):
         with open(ruta, "w") as file:
             json.dump(datos,file, indent=4)
         print("Datos guardados exitosamente!!")
         print("**************************************************")
 
 
-def cargar_trainer():
+def cargar_rutas():
     try:
         with open(ruta, "r") as leer:
-            datos=json.loads(leer.read())
+            datos=json.load(leer)
             return datos
     except FileNotFoundError:
-        
+        print("Error al guardar datos")
         print("**************************************************")
-        return {"Trainers" : {}
-    }
-
-print(cargar_trainer())
+        return {"Rutas" : {}}

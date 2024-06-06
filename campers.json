@@ -9,26 +9,13 @@
             "Telefono Fijo": "0",
             "Estado": "Aprobado",
             "Riesgo": "No",
-            "Horario": "",
-            "Nota Final": [
-                262.79999999999995
-            ],
-            "Notas 10%": [
-                26.099999999999998,
-                7.800000000000001,
-                8.700000000000001
-            ],
-            "Notas 60%": [
-                58.8,
-                58.8,
-                58.8
-            ],
-            "Notas 30%": [
-                23.4,
-                3.5999999999999996,
-                16.8
-            ],
-            "Ruta": "NetCore"
+            "Horario": "6:00 pm a 10:00 pm",
+            "Nota Final": [],
+            "Notas 10%": [],
+            "Notas 60%": [],
+            "Notas 30%": [],
+            "Ruta": "NetCore",
+            "Grupo": "M1"
         },
         "4": {
             "Nombre": "juan",
@@ -37,22 +24,15 @@
             "Acudiente": "g",
             "Telefono": 4,
             "Telefono Fijo": "0",
-            "Estado": "Aprobado",
+            "Estado": "",
             "Riesgo": "No",
-            "Horario": "",
-            "Nota Final": [
-                104.69999999999999
-            ],
-            "Notas 10%": [
-                26.099999999999998
-            ],
-            "Notas 60%": [
-                52.199999999999996
-            ],
-            "Notas 30%": [
-                26.4
-            ],
-            "Ruta": "Java"
+            "Horario": "6:00 pm a 10:00 pm",
+            "Nota Final": [],
+            "Notas 10%": [],
+            "Notas 60%": [],
+            "Notas 30%": [],
+            "Ruta": "NetCore",
+            "Grupo": "M1"
         },
         "5": {
             "Nombre": "laura",
@@ -68,7 +48,8 @@
             "Notas 10%": [],
             "Notas 60%": [],
             "Notas 30%": [],
-            "Ruta": "NetCore"
+            "Ruta": "",
+            "Grupo": ""
         },
         "1234": {
             "Nombre": "andres",
@@ -80,19 +61,12 @@
             "Estado": "Aprobado",
             "Riesgo": "bajo",
             "Horario": "",
-            "Nota Final": [
-                90.49999999999999
-            ],
-            "Notas 10%": [
-                5.6000000000000005
-            ],
-            "Notas 60%": [
-                58.8
-            ],
-            "Notas 30%": [
-                26.099999999999998
-            ],
-            "Ruta": ""
+            "Nota Final": [],
+            "Notas 10%": [],
+            "Notas 60%": [],
+            "Notas 30%": [],
+            "Ruta": "",
+            "Grupo": ""
         },
         "1212": {
             "Nombre": "fabula",
@@ -108,7 +82,8 @@
             "Notas 10%": [],
             "Notas 60%": [],
             "Notas 30%": [],
-            "Ruta": ""
+            "Ruta": "",
+            "Grupo": ""
         },
         "1095304637": {
             "Nombre": "Stefany",
@@ -124,7 +99,8 @@
             "Notas 10%": [],
             "Notas 60%": [],
             "Notas 30%": [],
-            "Ruta": ""
+            "Ruta": "",
+            "Grupo": ""
         },
         "987": {
             "Nombre": "juanita",
@@ -140,7 +116,8 @@
             "Notas 60%": [],
             "Notas 30%": [],
             "Ruta": "2:00 pm a 6:00 pm",
-            "Horario": ""
+            "Horario": "",
+            "Grupo": ""
         },
         "102943": {
             "Nombre": "Kevin Stev",
@@ -151,20 +128,30 @@
             "Telefono Fijo": "0",
             "Estado": "Aprobado",
             "Riesgo": "bajo",
-            "Nota Final": [
-                87
-            ],
-            "Notas 10%": [
-                9.600000000000001
-            ],
-            "Notas 60%": [
-                58.8
-            ],
-            "Notas 30%": [
-                26.099999999999998
-            ],
-            "Ruta": "10:00 am a 2:00 pm",
-            "Horario": ""
+            "Nota Final": [],
+            "Notas 10%": [],
+            "Notas 60%": [],
+            "Notas 30%": [],
+            "Ruta": "",
+            "Horario": "",
+            "Grupo": ""
+        },
+        "1097096884": {
+            "Nombre": "dina paola",
+            "Apellidos": "rasca dillo",
+            "Direccion": "calle 13",
+            "Acudiente": "alfonzo mendosa",
+            "Telefono": 3105884858,
+            "Telefono Fijo": "0",
+            "Estado": "Aprobado",
+            "Riesgo": "No",
+            "Nota Final": [],
+            "Notas 10%": [],
+            "Notas 60%": [],
+            "Notas 30%": [],
+            "Ruta": "Java",
+            "Horario": "10:00 am a 2:00 pm",
+            "Grupo": "U2"
         }
     }
 }
