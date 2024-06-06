@@ -2,6 +2,7 @@ import json
 import menus
 import fun_trainers_notas as nota
 import trainer_c_g as mm
+import mostrar_usuarios
 
 def wel_train ():
     ss = mm.cargar_trainer()
@@ -17,6 +18,8 @@ def wel_train ():
             if opc == 1:
                 nota.notas_trainers()
             elif opc == 2:
+                mostrar_usuarios.mos_trains()
+            elif opc == 3:
                 print("Saliendo..")
                 break
             else:

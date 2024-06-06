@@ -1,10 +1,13 @@
 import trainer_c_g as pp
 import menus 
 import prueba_carga as gg
+import mostrar_inscritos as ss
 
 def bebesita():
     uaa = pp.cargar_trainer()
     brr = gg.cargar_rutas()
+    print("Estos son los trainers y su informacion")
+    ss.mos_trains()
     documento = input("Digite la clave del trainer: ")
     if str(documento) in uaa["Trainers"]:
         while True:
@@ -43,3 +46,4 @@ def bebesita():
         print("contraseña de trainer invalido")
         print("**************************************************")
 
+bebesita()

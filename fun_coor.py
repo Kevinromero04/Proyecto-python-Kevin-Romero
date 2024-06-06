@@ -6,6 +6,7 @@ import modificar_nota_cordi as notas
 import crea_ruta
 import carga_Coor as mm
 import asignar_ruta_grupo
+import asignar_ruta_tainer as tra
 def wel_coor ():
     ss = mm.cargar_coor()
     clave1 = input("Digite la clave: ").lower()
@@ -38,12 +39,12 @@ def wel_coor ():
             elif opc_cor ==7:
                 mostra.mos_camp()
             elif opc_cor ==8:
+                tra.bebesita()
+            elif opc_cor ==9:
                 print("Saliendo...")
-                break
             else:
                 print("Numero incorrecto")
-                break
-                
+                             
     else:
         
         print("Clave invalida")

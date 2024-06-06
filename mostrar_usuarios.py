@@ -10,7 +10,7 @@ def mos_trains():
     file = open("trainers.json")
     regisa = json.load(file)
     for clave , datos in regisa["Trainers"].items():
-        print("El trainer con el usuario", datos["usuario"], ", con la ruta", datos["Ruta"], ", le corresponde los horarios", datos["Horario"], ", se le asigno el siguiente salon", datos["Salon"])
+        print("El trainer con el usuario: ", datos["usuario"], ", con la ruta:", datos["Ruta"], ", le corresponde los horarios: ", datos["Horario"], ", se le asigno el siguiente salon: ", datos["Salon"])
         print("**************************************************")
 
 def mos_campers():

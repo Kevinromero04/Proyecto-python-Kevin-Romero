@@ -19,4 +19,4 @@ def cargar_trainer():
         return {"Trainers" : {}
     }
 
-print(cargar_trainer())
+
