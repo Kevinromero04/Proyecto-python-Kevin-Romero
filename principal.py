@@ -6,7 +6,7 @@ import funcion_trainer
 import funcion_camper
 while True:
     try:
-        os.system("clear")
+        #os.system("clear")
         menus.menu_1()
         opc1 = int(input("Seleccione una opcion: "))
         if opc1 == 1:
