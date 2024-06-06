@@ -35,17 +35,17 @@
         "NodeJs": {
             "K1": {
                 "campers": [],
-                "Horario": "6:00 pm a 10:00 pm",
+                "Horario": "2:00 pm a 6:00 pm",
                 "Trainer": "",
                 "Ruta": "NodeJs",
-                "Salon": "Sputnik"
+                "Salon": "Artemis"
             },
             "K2": {
                 "campers": [],
-                "Horario": "10:00 am a 2:00 pm",
+                "Horario": "6:00 am a 10:00 pm",
                 "Trainer": "",
                 "Ruta": "NodeJs",
-                "Salon": "Sputnik"
+                "Salon": "Artemis"
             }
         }
     }

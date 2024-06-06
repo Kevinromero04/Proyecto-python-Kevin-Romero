@@ -1,9 +1,22 @@
 {
-    "Trainers":{
-        "juan123" :{"usuario":"Juan mariño1", "Ruta" : "Java", "Horario" : "6:00 am a 10:00 am, 2:00 pm a 6:00 pm", "Salon":" Sputnik"},
-    
-        "manuel123" :{"usuario":"Manuel Perez", "Ruta" : "NetCore", "Horario" : "6:00 pm a 10:00 pm","Salon":" Apolo"},
-        
-        "jose123" :{"usuario":"Jose Tarazona", "Ruta" : "NodeJs", "Horario" : "10:00 am a 2:00 pm","Salon":" Artemis"}
+    "Trainers": {
+        "juan123": {
+            "usuario": "Juan mari\u00f1o1",
+            "Ruta": "",
+            "Horario": "",
+            "Salon": ""
+        },
+        "manuel123": {
+            "usuario": "Manuel Perez",
+            "Ruta": "",
+            "Horario": "",
+            "Salon": " "
+        },
+        "jose123": {
+            "usuario": "Jose Tarazona",
+            "Ruta": "",
+            "Horario": "",
+            "Salon": " "
+        }
     }
 }

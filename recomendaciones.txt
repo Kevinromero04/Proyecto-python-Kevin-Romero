@@ -1,0 +1,2 @@
+en asignar ruta trainer verificar porque muestra el diccionario de los trainers
+2. hacer que se vea la informacion del trainer

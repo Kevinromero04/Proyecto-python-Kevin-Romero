@@ -7,7 +7,7 @@ import prueba_carga as gg
 def rhlm():
     uaa = pp.cargar_ususario_aprobados()
     brr = gg.cargar_rutas()
-    documento = int(input("Digite el documento del camper que deseas asignarle una ruta"))
+    documento = int(input("Digite el documento del camper que deseas asignarle una ruta: "))
     if str(documento) in uaa["campers"]:
         while True:
             menus.menu_rutas()
@@ -89,4 +89,4 @@ def rhlm():
     else:
         print("Documento invalido")
         print("**************************************************")
-        
+
