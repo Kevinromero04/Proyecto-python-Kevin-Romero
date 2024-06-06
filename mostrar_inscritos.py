@@ -11,3 +11,4 @@ def mos_trains():
     for clave , datos in regisa["Trainers"].items():
         print("El trainer con el usuario", datos["usuario"], ", con la ruta", datos["Ruta"], ", le corresponde los horarios", datos["Horario"], ", se le asigno el siguiente salon", datos["Salon"])
         print("**************************************************")
+

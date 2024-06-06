@@ -9,9 +9,7 @@
                 "Salon": "Sputnik"
             },
             "U2": {
-                "campers": [
-                    1097096884
-                ],
+                "campers": [],
                 "Horario": "10:00 am a 2:00 pm",
                 "Trainer": "",
                 "Ruta": "Java",
@@ -20,10 +18,7 @@
         },
         "NetCore": {
             "M1": {
-                "campers": [
-                    123,
-                    4
-                ],
+                "campers": [],
                 "Horario": "6:00 pm a 10:00 pm",
                 "Trainer": "",
                 "Ruta": "NetCore",

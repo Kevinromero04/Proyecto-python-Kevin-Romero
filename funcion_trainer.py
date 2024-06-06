@@ -24,4 +24,5 @@ def wel_train ():
     else:
         print("Clave invalida")
         print("**************************************************")
+        
 

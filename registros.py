@@ -17,7 +17,7 @@ def registrar_Usuario():
             regis_usuario["Nombre"] = input("Ingrese sus nombres: ")
             regis_usuario["Apellidos"] = input("Ingrese sus apellidos: ")
             regis_usuario["Direccion"] = input("Ingrese su Direccion: ")
-            regis_usuario["Acudiente"] = input("Ingrese su Acudiente: ")
+            regis_usuario["Acudiente"] = input("Ingrese su Acudiente (si eres mayor de edad coloca no): ")
             regis_usuario["Telefono"] = int(input("Ingrese su numero de telefono: "))
             regis_usuario["Telefono Fijo"] = input("Ingrese su telefono fijo (en caso de no tener escribir 0): ")
             regis_usuario["Estado"] = "Inscrito"
@@ -33,6 +33,7 @@ def registrar_Usuario():
             guarda.guardar_usuario(dato)
             print("Participante registrado!")   
         print("**************************************************")
+
 
 
 

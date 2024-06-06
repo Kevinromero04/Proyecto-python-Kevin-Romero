@@ -15,7 +15,7 @@ def wel_coor ():
         print("**************************************************")
         while True:
             menu_coor()
-            opc_cor = int(input("Seleccione una opcion"))
+            opc_cor = int(input("Seleccione una opcion: "))
             if opc_cor == 1:
                 pd.aprobar()
                 pd.mover_usuario_aprobado()
@@ -48,5 +48,6 @@ def wel_coor ():
         
         print("Clave invalida")
         print("**************************************************")
+        
 
 

@@ -62,6 +62,7 @@ def mover_usuario_aprobado():
         except Exception:
             print("porfavor ingrese un dato valido")
         finally:print("**************************************************")
+        
 
 
 

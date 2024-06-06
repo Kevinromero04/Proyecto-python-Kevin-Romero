@@ -47,6 +47,7 @@ def rutas ():
         except Exception:
             print("porfavor ingrese un dato valido")
         finally:print("**************************************************")
+        
 
             
         

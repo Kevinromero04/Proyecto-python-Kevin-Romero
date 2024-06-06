@@ -4,7 +4,7 @@ def camper():
     while True:
         try:
             menus.menu_camper()
-            opc = int(input("Seleccione una opcion"))
+            opc = int(input("Seleccione una opcion: "))
             if opc == 1:
                 mostrar_usuarios.mos_campers()
             elif opc == 2:
@@ -18,3 +18,4 @@ def camper():
         except Exception:
             print("porfavor ingrese un dato valido")
         finally:print("**************************************************")
+

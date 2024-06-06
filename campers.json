@@ -7,15 +7,15 @@
             "Acudiente": "fd",
             "Telefono": 324,
             "Telefono Fijo": "0",
-            "Estado": "Aprobado",
+            "Estado": "",
             "Riesgo": "No",
-            "Horario": "6:00 pm a 10:00 pm",
+            "Horario": "",
             "Nota Final": [],
             "Notas 10%": [],
             "Notas 60%": [],
             "Notas 30%": [],
-            "Ruta": "NetCore",
-            "Grupo": "M1"
+            "Ruta": "",
+            "Grupo": ""
         },
         "4": {
             "Nombre": "juan",
@@ -26,13 +26,13 @@
             "Telefono Fijo": "0",
             "Estado": "",
             "Riesgo": "No",
-            "Horario": "6:00 pm a 10:00 pm",
+            "Horario": "",
             "Nota Final": [],
             "Notas 10%": [],
             "Notas 60%": [],
             "Notas 30%": [],
-            "Ruta": "NetCore",
-            "Grupo": "M1"
+            "Ruta": "",
+            "Grupo": ""
         },
         "5": {
             "Nombre": "laura",

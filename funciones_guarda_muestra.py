@@ -17,3 +17,4 @@ def cargar_ususario():
         print("Error al guardar datos")
         print("**************************************************")
         return {"registrados":{ }}
+    

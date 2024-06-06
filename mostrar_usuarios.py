@@ -52,3 +52,4 @@ def mos_camp ():
         print("Esta en la ruta: ", datos["Ruta"],"en el grupo: ",datos["Grupo"],"en el horario:",datos["Horario"])
         print("**************************************************")
 
+
