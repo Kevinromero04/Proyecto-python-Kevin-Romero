@@ -36,7 +36,7 @@
         },
         "5": {
             "Nombre": "laura",
-            "Apellidos": "valla",
+            "Apellidos": "perez",
             "Direccion": "sd",
             "Acudiente": "fd",
             "Telefono": 5,
@@ -102,9 +102,9 @@
             "Ruta": "",
             "Grupo": ""
         },
-        "987": {
-            "Nombre": "juanita",
-            "Apellidos": "valla",
+        "9879": {
+            "Nombre": "manuel",
+            "Apellidos": "torrez",
             "Direccion": "df",
             "Acudiente": "no",
             "Telefono": 1234567,
