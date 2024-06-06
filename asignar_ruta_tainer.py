@@ -46,4 +46,3 @@ def bebesita():
         print("contraseña de trainer invalido")
         print("**************************************************")
 
-bebesita()
