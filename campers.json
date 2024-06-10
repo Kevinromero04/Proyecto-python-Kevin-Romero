@@ -152,6 +152,30 @@
             "Ruta": "Java",
             "Horario": "10:00 am a 2:00 pm",
             "Grupo": "U2"
+        },
+        "6789": {
+            "Nombre": "kevin",
+            "Apellidos": "romero",
+            "Direccion": "calle32",
+            "Acudiente": "no",
+            "Telefono": 4567,
+            "Telefono Fijo": "0",
+            "Estado": "Aprobado",
+            "Riesgo": "bajo",
+            "Nota Final": [
+                23
+            ],
+            "Notas 10%": [
+                6.7
+            ],
+            "Notas 60%": [
+                52.199999999999996
+            ],
+            "Notas 30%": [
+                16.2
+            ],
+            "Ruta": "",
+            "Horario": ""
         }
     }
 }
