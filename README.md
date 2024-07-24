@@ -18,8 +18,7 @@ sudo apt install app https://github.com/Kevinromero04/Proyecto-python-Kevin-Rome
 ```
 
 # Tecnoogias  💻
-- Html 
-- Css
+- Python
 
 
 ### Visualizacion
