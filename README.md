@@ -17,7 +17,12 @@ Deberas ejecutar este comando para descargar
 sudo apt install app https://github.com/Kevinromero04/Proyecto-python-Kevin-Romero.git
 ```
 
-### Como se juega 
+# Tecnoogias  💻
+- Html 
+- Css
+
+
+### Visualizacion
 ![ejecucion](./ejecucion.jpg)
 
 
