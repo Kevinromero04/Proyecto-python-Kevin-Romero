@@ -18,28 +18,10 @@ sudo apt install app https://github.com/Kevinromero04/Proyecto-python-Kevin-Rome
 ```
 
 ### Como se juega 
-![imagen gato](./gato.png)
+![ejecucion](./ejecucion.jpg)
 
-### Sección 
-- Ítem 1
-- Ítem 2
-- Ítem 3
 
 Hecho por [Kevin_Romero](https://github.com/Kevinromero04)
 
 >Kevin Romero Rincon.
 
-> [!NOTE]
->Esto es una nota especial
-
-> [!TIP]
-> Esto es un tip
-
-> [!IMPORTANT]  
-> Esto es información importante
-
-> [!WARNING]  
-> Esto es una alerta
-
-> [!CAUTION]
-> Esto es una advertencia
